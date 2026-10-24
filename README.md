@@ -33,7 +33,7 @@ I build Python automation tools and API integrations with a focus on **strict da
 - **[contract-risk-reviewer](https://github.com/elvalenciano1572-create/contract-risk-reviewer)** *(demo)*: Rule-based contract auditor flagging auto-renewals, unilateral price increases and uncapped liability.
 
 ### 📊 Business Workflows
-- **[email-to-sheets-crm](https://github.com/elvalenciano1572-create/email-to-sheets-crm)** *(demo)*: Extracts leads, budgets and phone numbers from emails and exports them to CSV (Google Sheets connector planned).
+- **[email-to-sheets-crm](https://github.com/elvalenciano1572-create/email-to-sheets-crm)**: Inbound mailbox scanner that extracts client leads, budgets and phones, with live Google Sheets API syncing and duplicate deduplication.
 - **[competitor-price-monitor](https://github.com/elvalenciano1572-create/competitor-price-monitor)** *(demo)*: Competitor price and stock-change evaluation with repricing recommendations.
 - **[smart-receipt-bookkeeper](https://github.com/elvalenciano1572-create/smart-receipt-bookkeeper)** *(demo)*: Bank transaction vs. receipt reconciliation with a settlement-window tolerance.
 - **[lead-enricher-pro](https://github.com/elvalenciano1572-create/lead-enricher-pro)** *(demo)*: B2B company profile enrichment (tech stack, headcount, contacts) from a sample dataset.
