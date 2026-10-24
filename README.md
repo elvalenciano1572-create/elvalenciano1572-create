@@ -22,8 +22,9 @@ I build mission-critical automation systems, custom API integrations, and autono
 ### 📈 Trading & Risk Architecture
 - **[ibkr-risk-guard](https://github.com/elvalenciano1572-create/ibkr-risk-guard)**: Pre-trade risk layer and protection guardian for Interactive Brokers (paper accounts). Enforces 1% risk budgeting, OCA brackets, and position audits.
 
-### 🤖 Autonomous Multi-Agent AI
+### 🤖 Autonomous Multi-Agent AI & RAG
 - **[financial-multiagent](https://github.com/elvalenciano1572-create/financial-multiagent)**: Collaborative investment research committee where an Analyst, an adversarial Risk Auditor, and a Chief Editor cross-validate theses with strict Pydantic schemas.
+- **[rag-doc-chat](https://github.com/elvalenciano1572-create/rag-doc-chat)**: Lightweight, zero-hallucination Retrieval-Augmented Generation (RAG) semantic document question-answering engine with source grounding.
 
 ### 📄 Document & Invoice Processing
 - **[invoice-extractor](https://github.com/elvalenciano1572-create/invoice-extractor)**: Batch PDF invoice data extraction pipeline into Excel with automatic VAT and discrepancy verification.
