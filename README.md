@@ -25,6 +25,7 @@ I build Python automation tools and API integrations with a focus on **strict da
 - **[ibkr-risk-guard](https://github.com/elvalenciano1572-create/ibkr-risk-guard)**: Pre-trade risk layer and protection guardian for Interactive Brokers **paper** accounts. Enforces 1% risk budgeting, OCA brackets and position audits.
 
 ### 🤖 Multi-Agent AI & RAG
+- **[ai-support-copilot](https://github.com/elvalenciano1572-create/ai-support-copilot)**: Grounded AI customer support copilot and ticket triaging engine with confidence gating, human escalation, and Gemini / OpenAI / offline mock drivers.
 - **[financial-multiagent](https://github.com/elvalenciano1572-create/financial-multiagent)**: Collaborative research committee with Financial Analyst, adversarial Risk Auditor, and Chief Editor cross-validating theses via strict Pydantic v2 contracts (supports Google Gemini, OpenAI, and deterministic offline mock).
 - **[rag-doc-chat](https://github.com/elvalenciano1572-create/rag-doc-chat)** *(demo)*: Lightweight document Q&A with source citations and a confidence score (token-overlap retrieval, no embeddings).
 
